@@ -11,7 +11,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/kavinarasan/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:kavinarasan2019@gmail.com)
   [![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+917358517961)
-  [![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/your-username)
 
 </div>
 
@@ -23,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Currently pursuing **B.Tech in Computer Science** at **IIITM Gwalior** with a passion for creating impactful, user-centric solutions. I bridge the gap between technical implementation and user experience, combining strong development skills with product management expertise.
+Currently pursuing **B.Tech in Computer Science** at **IIIT Gwalior** with a passion for creating impactful, user-centric solutions. I bridge the gap between technical implementation and user experience, combining strong development skills with product management expertise.
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> What I Do
 - **Product Development**: From ideation to deployment with user-centered design
