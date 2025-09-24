@@ -21,12 +21,6 @@ Currently pursuing **B.Tech in Computer Science** at **IIITM Gwalior** with a pa
 - **Data Visualization**: Transforming complex data into actionable insights
 
 
-### **Frontend Developer (Freelance)** | LUMINTRIQA AI
-*March 2025 – April 2025*
-- Built responsive **React.js landing page** for AI/ML consulting platform
-- Delivered clean UI/UX with reusable components
-- Collaborated with stakeholders to translate business needs into scalable solutions
-
 
 
 ## Technical Skills
