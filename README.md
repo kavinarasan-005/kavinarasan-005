@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 Currently studying Computer Science at IIIT Gwalior. I enjoy working with data to solve business problems and help teams make better decisions.
 
